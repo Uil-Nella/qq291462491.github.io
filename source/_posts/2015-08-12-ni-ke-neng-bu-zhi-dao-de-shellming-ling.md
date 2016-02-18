@@ -50,7 +50,7 @@ date -d20130203 +%s  得到某个时间的时间戳
 ### > file.txt
 创建一个文件。
 
-### mtr meituan.com
+### mtr google.com
 mtr命令比traceroute要好
 
 ### 在命令行前加空格，该命令不会进入history里。
